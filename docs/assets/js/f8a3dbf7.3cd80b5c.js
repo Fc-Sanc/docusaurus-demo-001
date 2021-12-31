@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_demo_001=self.webpackChunkdoc_demo_001||[]).push([[578],{3394:function(e){e.exports=JSON.parse('{"permalink":"/docusaurus-demo-001/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
